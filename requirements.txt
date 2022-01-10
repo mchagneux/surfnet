@@ -1,11 +1,8 @@
-"opencv-python-headless<4.3"
+opencv-python
 pycocotools
 debugpy
 scipy
 tqdm
 tensorboard
-imgaug==0.4.0
+imgaug
 psycopg2-binary
-flask
-werkzeug
-git+https://github.com/pykalman/pykalman.git
